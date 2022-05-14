@@ -1,0 +1,6 @@
+<htmml>
+<title>My New Git Project</title>
+<h1>Inside the main project</h1>
+<h2>inside sub project</h2>
+<p>paragraph in sub project</p>
+</html>
